@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+code{
+color:#ffffff;
+font-style: italic;
+}
+a {
+text-decoration: underline;
+}
+div#header{
+  display: none;
+}
+div#title{
+  display: none;
+}
