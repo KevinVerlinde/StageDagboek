@@ -28,3 +28,4 @@ This site contains the 'journal entries' for Kevin Verlinde's internship at `Sch
 - [12-03-2018](entries/12-03.md)
 - [13-03-2018](entries/13-03.md)
 - [15-03-2018](entries/15-03.md)
+- [16-03-2018](entries/16-03.md)
