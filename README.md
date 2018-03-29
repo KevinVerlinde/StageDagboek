@@ -35,3 +35,10 @@ This site contains the 'journal entries' for Kevin Verlinde's internship at `Sch
 - [19-03-2018](entries/19-03.md)
 - [22-03-2018](entries/22-03.md)
 - [23-03-2018](entries/23-03.md)
+
+### Week 6
+
+- [26-03-2018](entries/26-03.md)
+- [27-03-2018](entries/27-03.md)
+- [29-03-2018](entries/29-03.md)
+- [30-03-2018](entries/30-03.md)
