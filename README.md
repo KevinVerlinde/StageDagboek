@@ -4,41 +4,41 @@ This site contains the 'journal entries' for Kevin Verlinde's internship at `Sch
 
 ### Week 1
 
-- [19-02-2018](entries/19-02.md)
-- [20-02-2018](entries/20-02.md)
-- [22-02-2018](entries/22-02.md)
-- [23-02-2018](entries/23-02.md)
+- [19-02-2018](entries/19-02.html)
+- [20-02-2018](entries/20-02.html)
+- [22-02-2018](entries/22-02.html)
+- [23-02-2018](entries/23-02.html)
 
 ### Week 2
 
-- [26-02-2018](entries/26-02.md)
-- [27-02-2018](entries/27-02.md)
-- [01-03-2018](entries/01-03.md)
-- [02-03-2018](entries/02-03.md)
+- [26-02-2018](entries/26-02.html)
+- [27-02-2018](entries/27-02.html)
+- [01-03-2018](entries/01-03.html)
+- [02-03-2018](entries/02-03.html)
 
 ### Week 3
 
-- [05-03-2018](entries/05-03.md)
-- [06-03-2018](entries/06-03.md)
-- [08-03-2018](entries/08-03.md)
-- [09-03-2018](entries/09-03.md)
+- [05-03-2018](entries/05-03.html)
+- [06-03-2018](entries/06-03.html)
+- [08-03-2018](entries/08-03.html)
+- [09-03-2018](entries/09-03.html)
 
 ### Week 4
 
-- [12-03-2018](entries/12-03.md)
-- [13-03-2018](entries/13-03.md)
-- [15-03-2018](entries/15-03.md)
-- [16-03-2018](entries/16-03.md)
+- [12-03-2018](entries/12-03.html)
+- [13-03-2018](entries/13-03.html)
+- [15-03-2018](entries/15-03.html)
+- [16-03-2018](entries/16-03.html)
 
 ### Week 5
 
-- [19-03-2018](entries/19-03.md)
-- [22-03-2018](entries/22-03.md)
-- [23-03-2018](entries/23-03.md)
+- [19-03-2018](entries/19-03.html)
+- [22-03-2018](entries/22-03.html)
+- [23-03-2018](entries/23-03.html)
 
 ### Week 6
 
-- [26-03-2018](entries/26-03.md)
-- [27-03-2018](entries/27-03.md)
-- [29-03-2018](entries/29-03.md)
-- [30-03-2018](entries/30-03.md)
+- [26-03-2018](entries/26-03.html)
+- [27-03-2018](entries/27-03.html)
+- [29-03-2018](entries/29-03.html)
+- [30-03-2018](entries/30-03.html)
