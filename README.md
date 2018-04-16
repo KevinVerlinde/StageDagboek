@@ -42,3 +42,15 @@ This site contains the 'journal entries' for Kevin Verlinde's internship at `Sch
 - [27-03-2018](entries/27-03.html)
 - [29-03-2018](entries/29-03.html)
 - [30-03-2018](entries/30-03.html)
+
+### Week 7
+
+Paasvakantie
+
+### Week 8 
+
+Paasvakantie
+
+### Week 9
+
+- [16-04-2018](entries/16-04.html)
