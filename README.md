@@ -63,3 +63,4 @@ Paasvakantie
 - [23-04-2018](entries/23-04.html)
 - [24-04-2018](entries/24-04.html)
 - [26-04-2018](entries/26-04.html)
+- [27-04-2018](entries/27-04.html)
