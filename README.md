@@ -69,3 +69,8 @@ Paasvakantie
 
 - [03-05-2018](entries/03-05.html)
 - [04-05-2018](entries/04-05.html)
+
+### Week 12
+
+- [07-05-2018](entries/07-05.html)
+- [08-05-2018](entries/08-05.html)
